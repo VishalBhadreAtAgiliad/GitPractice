@@ -1,0 +1,3 @@
+[submodule "JavaParser"]
+	path = JavaParser
+	url = git@github.com:javaparser/javaparser.git
