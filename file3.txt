@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file3
+=======
+file3 extra functionality
+>>>>>>> SGB_34_file3_extra
